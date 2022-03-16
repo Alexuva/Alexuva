@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Bienvenido a mi perfil de GitHub! 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexuva&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexuva&show_icons=true&theme=cobalt)
