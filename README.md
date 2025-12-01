@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Bienvenido a mi perfil de GitHub! 
-[![Alexuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexuva)](https://github.com/anuraghazra/github-readme-stats)
-
 
